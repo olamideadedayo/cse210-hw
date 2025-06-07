@@ -82,6 +82,7 @@ class Program
         Console.WriteLine("Type 'exit' to quit the application at any time.");
         // Console.WriteLine("write"); // Removed invalid line
 
+
         while (running)
         {
             Console.WriteLine("\nJournal Menu:");
@@ -118,6 +119,7 @@ class Program
         }
 
         Console.WriteLine("Goodbye!");
-    }
+    }
 }
+
 // This code implements a simple journal application that allows users to add, view, save, and load journal entries.
